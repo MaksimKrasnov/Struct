@@ -1,0 +1,19 @@
+2
+Ivan Ivanov
+City
+Street
+6351
+Mathematic 3
+English 4
+History 2
+Fysik 5
+C++ 4
+Nikolay Petrov
+City2
+Street2
+63512
+Mathematic 3
+English 4
+History 2
+Fysik 5
+C++ 4

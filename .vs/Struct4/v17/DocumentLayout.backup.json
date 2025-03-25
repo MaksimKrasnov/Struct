@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KrasnovM\\Struct4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A938BEBF-36ED-4B8C-9B94-2FA4C3B62572}|Struct4.vcxproj|D:\\KrasnovM\\Struct4\\Struct4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A938BEBF-36ED-4B8C-9B94-2FA4C3B62572}|Struct4.vcxproj|solutionrelative:Struct4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct4.cpp",
+              "DocumentMoniker": "D:\\KrasnovM\\Struct4\\Struct4.cpp",
+              "RelativeDocumentMoniker": "Struct4.cpp",
+              "ToolTip": "D:\\KrasnovM\\Struct4\\Struct4.cpp*",
+              "RelativeToolTip": "Struct4.cpp*",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAAOgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T11:30:41.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
